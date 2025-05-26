@@ -8,4 +8,4 @@ We can click all the links that are accessable in tha navbar side so if we click
 
 Thats all about this website . I just made this simple website for practising my Front end designing 
 
-Thank you for your valuable time to take look my webpage.
+Thank you for your valuable time to take a look my webpage.
